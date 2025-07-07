@@ -1,1 +1,7 @@
+langchain
+sentence-transformers
+faiss-cpu
+requests
+huggingface_hub
+pydantic
 
